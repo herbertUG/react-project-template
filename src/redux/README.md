@@ -1,0 +1,1 @@
+All files inside here at typescript files(ts)
